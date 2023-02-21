@@ -1,17 +1,16 @@
 #include <stdio.h>
+
+
 /**
-<<<<<<< HEAD
- * * Description: main - prints out a string to standout
- * *Return: 0(Success)
+ * main - prints "with proper grammar, but the outcome is
+ * a piece of art," followed newline
+ * Return: Always 0.
+ *
  */
 
-=======
- * main - prints a line with the printf function
- * Return: 0 (Success)
-*/
->>>>>>> dba06fa4bf62927ea713a1b6c8f3d4c0fb90ab7d
 int main(void)
+
 {
-printf("with proper grammar, but the outcome is a piece of art,\n")
-return (0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
